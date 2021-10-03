@@ -14,7 +14,7 @@ Stuff that I am interested in:
 |                                               |                               |- Law ⚖
 |                                               |                               |- Medicine (when I feel like it)
 
-### Caught you interest?
+### Caught your interest?
 
 Catch me on my linkedin, I post some interesting stuff whenever I have time
 
