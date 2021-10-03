@@ -27,10 +27,10 @@ Other stuff:
 ### Caught you interest?
 
 Catch me on my linkedin, I post some interesting stuff whenever I have time
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-ahmed-ai/)
 
 
 ### Stats for nerds
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-ahmed-ai/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Amr-devman&show_icons=true&theme=radical" />
