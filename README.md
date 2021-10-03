@@ -17,6 +17,7 @@ Stuff that I am interested in:
 ### Caught you interest?
 
 Catch me on my linkedin, I post some interesting stuff whenever I have time
+
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-ahmed-ai/)
 
 
