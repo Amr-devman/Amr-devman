@@ -3,9 +3,9 @@
 I an an AI engineer who is keen on "Practical AI", bringing AI products to market is my passion and I am currently trying to master the mystical arts of MLOps (I also secretly like devops stuff 😉)
 
 Stuff that I am interested in:
-<a align="center">
+
 |AI stuff 🤖                           |Technologies 🔧            |Other stuff ♾|
-|:---:|:---:|:---:|
+|:-------------------------------------:|:-------------------------:|:------------------------------:|
 |- Single shot learning                 |- Kubernetes               |- Nueroscience 🧠
 |- Artificial general intelligence (AGI)|- Dockers                  |- Computation theory 💻
 |- GANs                                 |- Serverless deployments   |- Philosophy 🗿
@@ -13,8 +13,6 @@ Stuff that I am interested in:
                                                                     |- Quantam computing ⚛
                                                                     |- Law ⚖
                                                                     |- Medicine (when I feel like it)
-
-</a>
 
 ### Caught you interest?
 
