@@ -5,14 +5,14 @@ I an an AI engineer who is keen on "Practical AI", bringing AI products to marke
 Stuff that I am interested in:
 
 |AI stuff 🤖                           |Technologies 🔧            |Other stuff ♾|
-|:-------------------------------------:|:----------------------------:|:------------------------------:|
-|- Single shot learning                 |- Kubernetes 🐙               |- Nueroscience 🧠
-|- Artificial general intelligence (AGI)|- Dockers 🐳                  |- Computation theory 💻
-|- GANs                                 |- Serverless deployments 🛠    |- Philosophy 🗿
-|- Serverless DL models                 |                               |- Psychology 📖
-| - Model-as-a-service (MAAS) 🛍        |                               |- Quantam computing ⚛
-|                                       |                               |- Law ⚖
-|                                       |                               |- Medicine (when I feel like it)
+|:---------------------------------------------:|:----------------------------:|:------------------------------:|
+|- Single shot learning  🤔                     |- Kubernetes 🐙               |- Nueroscience 🧠
+|- Artificial general intelligence (AGI) 🌟🧠🌟|- Dockers 🐳                  |- Computation theory 💻
+|- GANs 🥊                                      |- Serverless deployments 🛠    |- Philosophy 🗿
+|- Serverless DL models                         |                               |- Psychology 📖
+|- Model-as-a-service (MAAS) 🛍                 |                               |- Quantam computing ⚛
+|                                               |                               |- Law ⚖
+|                                               |                               |- Medicine (when I feel like it)
 
 ### Caught you interest?
 
