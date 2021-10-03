@@ -1,9 +1,9 @@
-<h2 align="center">"Hi there, welcome to my lair </h2>
+<h2 align="center">Hi there, welcome to my lair 🏠</h2>
 
  What I work as: AI and Data Engineer 🧠
  
 
-![Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amr-devman&show_icons=true&theme=radical)(https://github.com/anuraghazra/github-readme-stats)
+![Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amr-devman&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-devman)](https://github.com/anuraghazra/github-readme-stats)
 
 
