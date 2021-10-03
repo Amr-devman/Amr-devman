@@ -5,12 +5,13 @@ I an an AI engineer who is keen on "Practical AI", bringing AI products to marke
 When I am not doing AI stuff, I am either ta
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amr-devman&show_icons=true&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Amr-devman&show_icons=true&theme=radical" />
 </a>
 
+<a></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-devman&theme=radical&compact=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-devman&theme=radical&compact=true" />
 </a>
 
 
