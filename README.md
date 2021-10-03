@@ -24,7 +24,7 @@ Catch me on my linkedin, I post some interesting stuff whenever I have time
 ### Stats for nerds
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Amr-devman&show_icons=true&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Amr-devman&show_icons=true&theme=radical&count_private=true" />
 </a>
 
 
