@@ -10,9 +10,9 @@ Stuff that I am interested in:
 |- Artificial general intelligence (AGI)|- Dockers                  |- Computation theory 💻
 |- GANs                                 |- Serverless deployments   |- Philosophy 🗿
 |- Serverless DL models                 |- Model-as-a-service (MAAS)|- Psychology 📖
-                                                                    |- Quantam computing ⚛
-                                                                    |- Law ⚖
-                                                                    |- Medicine (when I feel like it)
+|                                       |                           |- Quantam computing ⚛
+|                                       |                           |- Law ⚖
+|                                       |                           |- Medicine (when I feel like it)
 
 ### Caught you interest?
 
